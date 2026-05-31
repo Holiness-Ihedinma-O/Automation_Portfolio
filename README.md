@@ -1,4 +1,4 @@
-# Automation Portfolio — Holiness Ihedinma Onyemaechi
+# Automation Portfolio - Holiness Ihedinma Onyemaechi
 
 **Automation Specialist | Salesforce Certified Platform Administrator | AI Workflow Architect**
 
